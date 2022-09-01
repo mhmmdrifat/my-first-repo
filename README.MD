@@ -4,4 +4,4 @@ NPM     : 2106752470
 
 Kelas   : B
 
-Hobi    : Ngoding
+Hobi    : Baca
